@@ -72,7 +72,7 @@ const harsha = {
 
 ### 🏢 Software Engineer Intern
 **Ernst & Young (EY)**  
-*May 2025 - Present*
+*May 2025 - August2025*
 
 <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-28a6-4b9a-a5c6-8a88c22bd493.gif" width="60">
 
